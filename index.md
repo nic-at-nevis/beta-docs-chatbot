@@ -1,4 +1,4 @@
 ---
-title: Welcome to beta chatbot
+title: Welcome to beta docs chatbot
 ---
 
